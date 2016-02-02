@@ -1,0 +1,10 @@
+satu 
+dua 
+tiga 
+empat 
+lima 
+enum
+tugh 
+lapan
+simbilan 
+sipuluh
